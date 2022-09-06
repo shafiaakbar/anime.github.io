@@ -1,0 +1,110 @@
+body {
+  background-image:radial-gradient(#fc9d9d, #07031a);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Marck Script', cursive;
+}
+
+h1 {
+  color: #fbc687;
+  font-size: 5rem;
+  font-weight: bold;
+  text-decoration: underline;
+  text-shadow: 5px 0 #900c3f;
+  margin: 50px 0;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.w {
+  background: url(images/kira.png);
+  background-position: center; 
+  background-size: cover; 
+
+}
+
+.a {
+  background: url(images/kakashi.png);
+   background-position: center; 
+  background-size: cover; 
+  
+}
+
+.s {
+  background: url(images/madaraa.png);
+  background-position: center; 
+  background-size: cover; 
+  
+}
+
+.d {
+ 
+  
+  background: url(images/itachix.png);
+  background-position: center; 
+  background-size: cover; 
+}
+
+
+.j {
+ 
+  background: url(images/pain.png);
+  background-position: center; 
+  background-size: cover; 
+}
+
+.k {
+  background: url(images/sasuke.png);
+  background-position: center; 
+  background-size: cover; 
+}
+
+.l {
+  background: url(images/obito.png);
+  background-position: center; 
+  background-size: cover; 
+}
+
+
+.set {
+  margin: 10.5% auto;
+
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #090d16;
+  font-size: 1rem;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 14.5rem;
+  font-weight: 900;
+  color: #e03535;
+  text-shadow: 1px 0 #000000;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align:bottom left;
+  margin: 10px;
+  background-color: white;
+}
+
